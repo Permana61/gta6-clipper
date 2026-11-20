@@ -1,8 +1,8 @@
 # GTA 6 Clipper — Dog on a Jet Ski
 
-![make.fun](https://make.fun/badge/gta6-clipper-01.svg)
-![rank](https://make.fun/badge/gta6-clipper-01/Permana61/gta6-clipper/rank.svg)
-![reward](https://make.fun/badge/gta6-clipper-01/Permana61/gta6-clipper/reward.svg)
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/Permana61/gta6-clipper/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/Permana61/gta6-clipper/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
 
 Entry untuk make.fun **gta6-clipper-01** — "Clip GTA 6 for the most YouTube views".
 
@@ -46,5 +46,5 @@ make.fun — video YouTube-nya sendiri yang dinilai.
 mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
-`VIDEO.json` di repo ini masih placeholder — URL Shorts aslinya diisi
-setelah video selesai diunggah ke YouTube.
+`VIDEO.json` di repo ini berisi URL Shorts asli videonya
+(https://www.youtube.com/shorts/XmbTk0DDfmA).
